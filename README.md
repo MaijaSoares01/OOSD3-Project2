@@ -1,5 +1,6 @@
 # OOSD3-Project2
 OOSD3, Second Year, Semester 2, Assignment 2
+
 Using ProcessBuilder and either the ProcessBuilder constructor or its command() method, write a Java program that run a command (in Windows) or a shell script (Mac, Linux) and
 ping a website of choice 10 times. Using BufferedReader, write the output (ping response) to the console.
 Important commands for Windows and MacOS to invoke ping
